@@ -88,8 +88,7 @@ This project features a colorful butterfly rendered using over 45 vertices made 
 
 ## 🧑‍💻 Author
 
-**Your Name** 
-Raisul Islam
+**Raisul Islam** 
 Batch #16 (Diploma) 
 BSc in Computer Science & Engineering  
 Southeast University
